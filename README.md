@@ -4,11 +4,11 @@ Hello there! It's my small project that use SQL and java (also there are python 
 
 In the case of sucsessful compiling you see something like this:
 
-![alt text](sucsessful_compling.png)
+![alt text](image-8.png)
 
 Let's see how looks out local data base right now:
 
-![alt text](all_notes1.png)
+![alt text](image-9.png)
 
 ## Adding new note
 
