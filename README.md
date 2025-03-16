@@ -8,7 +8,7 @@ Images/image-8.png
 
 Let's see how looks out local data base right now:
 
-![Images/image-9.png](image-9.png)
+![alt](image-9.png)
 
 
 ## Adding new note
