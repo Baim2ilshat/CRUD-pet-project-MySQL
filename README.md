@@ -4,7 +4,7 @@ Hello there! It's my small project that use SQL and java (also there are python 
 
 In the case of sucsessful compiling you see something like this:
 
-Images/image-8.png
+![alt](image-8.png)
 
 Let's see how looks out local data base right now:
 
@@ -15,33 +15,33 @@ Let's see how looks out local data base right now:
 
 Try add new note:
 
-Images/image-2.png
+![alt](image-2.png)
 
 And let's look all notes now:
 
-Images/image-3.png
+![alt](image-3.png)
 
 
 ## Deleting note
 
 Try delete some note by his ID:
 
-Images/image-4.png
+![alt](image-4.png)
 
 Now all notes looks like this:
 
-Images/image-5.png
+![alt](image-5.png)
 
 
 ## Searching notes
 
 We can look only for notes with "work" category:
 
-Images/image-6.png
+![alt](image-6.png)
 
 Or we can look notes that contains "SQL" in yourself:
 
-Images/image-7.png
+![alt](image-7.png)
 
 
 It's all in functionality of project now. In future I want to connect web part!
