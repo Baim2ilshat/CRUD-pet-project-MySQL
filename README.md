@@ -1,6 +1,10 @@
 # Notes app pet project
 
 Hello there! It's my small project that use SQL and java (also there are python version) to contain, adding, searching and deleting notes.
+Requirements:
+1) IntelliJ IDEA (optional)
+2) MySQL (you can download it here https://www.mysql.com/downloads/)
+3) MySQL Connector Jar (https://dev.mysql.com/downloads/connector/j/)
 
 In the case of sucsessful compiling you see something like this:
 
